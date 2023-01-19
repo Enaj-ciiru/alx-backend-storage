@@ -1,1 +1,1 @@
-# Redis Hash Table
+# :book: 0x02. Redix basic.
